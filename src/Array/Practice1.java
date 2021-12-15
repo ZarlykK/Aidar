@@ -33,6 +33,6 @@ public class Practice1 {
         System.out.println("***************");
         System.out.println(Arrays.toString(studentIds));
 //        System.out.println(studentIds); shows memory location --  [I@1b6d3586
-
+//djfjggkggofofof
     }
 }
